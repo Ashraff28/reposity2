@@ -1,1 +1,2 @@
-my name is Ashraf sulthana; here am learning git
+my name is Ashraf sulthana 
+thids is a sample repo
